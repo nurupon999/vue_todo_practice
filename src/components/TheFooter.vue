@@ -3,3 +3,7 @@
     <small>(´・ω・`) todolist</small>
   </footer>
 </template>
+
+<style scoped>
+
+</style>
